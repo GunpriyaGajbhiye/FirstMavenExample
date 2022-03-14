@@ -6,6 +6,7 @@ public class TestCal {
 		Calculator c= new Calculator();
 		int r=c.add(200, 200);
 		System.out.println(r);
+		System.out.println("Helo");
 	
 
 	}

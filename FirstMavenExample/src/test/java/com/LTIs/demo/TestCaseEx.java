@@ -21,6 +21,7 @@ class TestCaseEx {
 	public void testCase1() {
 		                       //expected  //Actual
 		Assertions.assertEquals("Hello", "Hello");
+		Assertions.assertEquals("Hello", "Hello");
 		
 	}
 	@Disabled

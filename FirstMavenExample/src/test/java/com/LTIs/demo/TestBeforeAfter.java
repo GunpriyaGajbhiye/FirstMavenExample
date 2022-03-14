@@ -15,6 +15,7 @@ class TestBeforeAfter {
 	{
 	Assertions.assertEquals("Up","Up");
 	System.out.println(" before All");
+	System.out.println(" before All");
 	}
 
 	@BeforeEach
