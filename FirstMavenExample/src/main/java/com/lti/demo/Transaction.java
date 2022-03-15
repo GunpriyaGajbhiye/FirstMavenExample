@@ -1,2 +1,4 @@
-public class Transaction(){
+package com.lti.demo;
+
+public class Transaction{
 }
